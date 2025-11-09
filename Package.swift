@@ -15,8 +15,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "AdenRewardSDK",
-            url: "https://github.com/Aden-Labs/Aden-SDK-IOS/releases/download/0.1.2/AdenRewardSDK.xcframework.zip",
-            checksum: "40fe571dd838259a65a2c10813f609019a25075dff8566d98d85ef361cad6595"
+            url: "https://github.com/Aden-Labs/Aden-SDK-IOS/releases/download/0.1.3/AdenRewardSDK.xcframework.zip",
+            checksum: "afb1db0cbac89038d40927479e5f9829a010760deffe7fbcdaa77f19d87eb71e"
         )
     ]
 )
